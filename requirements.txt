@@ -35,3 +35,7 @@ pydantic==1.10.0
 pytorch_wavelets@git+https://github.com/fbcotter/pytorch_wavelets.git
 PyWavelets
 fairlearn
+ipykernel
+black
+isort
+pre-commit
